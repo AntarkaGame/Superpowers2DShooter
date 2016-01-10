@@ -10,10 +10,10 @@ Installation des packages en global :
 
 Pour installer les deps du server faire :
 
-tsd install
-npm install
-tsc
+- tsd install
+- npm install
+- tsc
 
 Puis pour lancer :
 
-npm start
+- npm start
