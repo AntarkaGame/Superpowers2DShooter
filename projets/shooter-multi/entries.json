@@ -1,0 +1,304 @@
+[
+  {
+    "id": "6",
+    "name": "GLOBALS",
+    "type": "script"
+  },
+  {
+    "id": "47",
+    "name": "ROADMAP",
+    "type": "script"
+  },
+  {
+    "id": "0",
+    "name": "Assets",
+    "type": null,
+    "children": [
+      {
+        "id": "1",
+        "name": "Scripts",
+        "type": null,
+        "children": [
+          {
+            "id": "31",
+            "name": "UI",
+            "type": null,
+            "children": [
+              {
+                "id": "21",
+                "name": "HUD",
+                "type": "script"
+              },
+              {
+                "id": "20",
+                "name": "Button",
+                "type": "script"
+              },
+              {
+                "id": "26",
+                "name": "Input",
+                "type": "script"
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "name": "Jeu",
+            "type": "script"
+          },
+          {
+            "id": "32",
+            "name": "Player",
+            "type": "script"
+          },
+          {
+            "id": "46",
+            "name": "Camera",
+            "type": "script"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Maps",
+        "type": null,
+        "children": [
+          {
+            "id": "9",
+            "name": "Map1",
+            "type": "tileMap"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Sprites",
+        "type": null,
+        "children": [
+          {
+            "id": "8",
+            "name": "Tile Set",
+            "type": "tileSet"
+          },
+          {
+            "id": "12",
+            "name": "Tank",
+            "type": null,
+            "children": [
+              {
+                "id": "19",
+                "name": "Prefab",
+                "type": "scene"
+              },
+              {
+                "id": "11",
+                "name": "Cannon",
+                "type": "sprite"
+              },
+              {
+                "id": "10",
+                "name": "Base",
+                "type": "sprite"
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "name": "Robot",
+            "type": null,
+            "children": [
+              {
+                "id": "18",
+                "name": "Prefab",
+                "type": "scene"
+              },
+              {
+                "id": "15",
+                "name": "Head",
+                "type": "sprite"
+              },
+              {
+                "id": "14",
+                "name": "Body",
+                "type": "sprite"
+              },
+              {
+                "id": "16",
+                "name": "Leg",
+                "type": "sprite"
+              },
+              {
+                "id": "17",
+                "name": "Weapon",
+                "type": "sprite"
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "name": "HUD",
+            "type": null,
+            "children": [
+              {
+                "id": "23",
+                "name": "button",
+                "type": "sprite"
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "name": "Player",
+            "type": null,
+            "children": [
+              {
+                "id": "44",
+                "name": "Example",
+                "type": "sprite"
+              },
+              {
+                "id": "35",
+                "name": "Prefab",
+                "type": "scene"
+              },
+              {
+                "id": "45",
+                "name": "Prefab old",
+                "type": "scene"
+              },
+              {
+                "id": "28",
+                "name": "Head",
+                "type": null,
+                "children": [
+                  {
+                    "id": "29",
+                    "name": "Head1",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "38",
+                    "name": "Head2",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "54",
+                    "name": "Head3",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "55",
+                    "name": "Head4",
+                    "type": "sprite"
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "name": "Body",
+                "type": null,
+                "children": [
+                  {
+                    "id": "34",
+                    "name": "Body1",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "51",
+                    "name": "Body2",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "52",
+                    "name": "Body3",
+                    "type": "sprite"
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "name": "Leg",
+                "type": null,
+                "children": [
+                  {
+                    "id": "37",
+                    "name": "Leg1",
+                    "type": "sprite"
+                  }
+                ]
+              },
+              {
+                "id": "39",
+                "name": "Weapon",
+                "type": null,
+                "children": [
+                  {
+                    "id": "42",
+                    "name": "1",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "43",
+                    "name": "2",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "40",
+                    "name": "8",
+                    "type": "sprite"
+                  }
+                ]
+              },
+              {
+                "id": "48",
+                "name": "Arm",
+                "type": null,
+                "children": [
+                  {
+                    "id": "49",
+                    "name": "Arm1",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "50",
+                    "name": "Arm2",
+                    "type": "sprite"
+                  },
+                  {
+                    "id": "53",
+                    "name": "Arm3",
+                    "type": "sprite"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "name": "Fonts",
+        "type": null,
+        "children": [
+          {
+            "id": "25",
+            "name": "ExoNormal",
+            "type": "font"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Scenes",
+        "type": null,
+        "children": [
+          {
+            "id": "5",
+            "name": "Home",
+            "type": "scene"
+          }
+        ]
+      }
+    ]
+  }
+]

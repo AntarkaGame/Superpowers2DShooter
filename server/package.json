@@ -1,0 +1,14 @@
+{
+  "name": "Shooter-multi",
+  "description": "Shooter 2D Multijoueur",
+  "version": "0.0.1",
+  "main" : "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-cluster": "0.0.4",
+    "socket.io": "^1.4.3"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.1"
+  }
+}

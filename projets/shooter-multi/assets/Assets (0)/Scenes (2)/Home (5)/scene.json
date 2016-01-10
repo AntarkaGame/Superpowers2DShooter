@@ -1,0 +1,384 @@
+{
+  "formatVersion": 1,
+  "nodes": [
+    {
+      "id": "7",
+      "name": "spawnPoint1",
+      "children": [],
+      "components": [],
+      "position": {
+        "x": -3.4620113372802734,
+        "y": 1.4229978322982788,
+        "z": -3.000304698944092
+      },
+      "orientation": {
+        "x": 0.00872653512987063,
+        "y": 0,
+        "z": 0,
+        "w": 0.9999619268083657
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.000000014962205,
+        "z": 1.000000014962205
+      },
+      "visible": true,
+      "layer": 0,
+      "prefab": null
+    },
+    {
+      "id": "8",
+      "name": "spawnPoint2",
+      "children": [],
+      "components": [],
+      "position": {
+        "x": -0.8592364192008972,
+        "y": -2.5826547145843506,
+        "z": -3.000304698944092
+      },
+      "orientation": {
+        "x": 0.00872653512987063,
+        "y": 0,
+        "z": 0,
+        "w": 0.9999619268083657
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.000000014962205,
+        "z": 1.000000014962205
+      },
+      "visible": true,
+      "layer": 0,
+      "prefab": null
+    },
+    {
+      "id": "11",
+      "name": "spawnPoint3",
+      "children": [],
+      "components": [],
+      "position": {
+        "x": 3.928,
+        "y": 0.077,
+        "z": 1
+      },
+      "orientation": {
+        "x": 0.00872653512987063,
+        "y": 0,
+        "z": 0,
+        "w": 0.9999619268083657
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.000000014962205,
+        "z": 1.000000014962205
+      },
+      "visible": true,
+      "layer": 0,
+      "prefab": null
+    },
+    {
+      "id": "0",
+      "name": "Map",
+      "children": [
+        {
+          "id": "6",
+          "name": "PlayersContainer",
+          "children": [],
+          "components": [],
+          "position": {
+            "x": 0,
+            "y": -0.0170001108199358,
+            "z": 0.9999998211860657
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "visible": true,
+          "layer": 0,
+          "prefab": null
+        }
+      ],
+      "components": [
+        {
+          "type": "TileMapRenderer",
+          "config": {
+            "tileMapAssetId": "9",
+            "tileSetAssetId": null,
+            "castShadow": false,
+            "receiveShadow": false,
+            "materialType": "basic",
+            "shaderAssetId": null
+          },
+          "id": "0"
+        },
+        {
+          "type": "Behavior",
+          "config": {
+            "behaviorName": "JeuBehavior",
+            "propertyValues": {}
+          },
+          "id": "1"
+        },
+        {
+          "type": "ArcadeBody2D",
+          "config": {
+            "type": "tileMap",
+            "movable": true,
+            "width": 1,
+            "height": 1,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "tileMapAssetId": "9",
+            "tileSetPropertyName": null,
+            "layersIndex": "1"
+          },
+          "id": "2"
+        }
+      ],
+      "position": {
+        "x": -4.654200553894043,
+        "y": -3.4239063262939453,
+        "z": -5
+      },
+      "orientation": {
+        "x": 0.008726535498373935,
+        "y": 0,
+        "z": 0,
+        "w": 0.9999619230641713
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "layer": 0,
+      "prefab": null
+    },
+    {
+      "id": "1",
+      "name": "Camera",
+      "children": [
+        {
+          "id": "4",
+          "name": "Accueil",
+          "children": [
+            {
+              "id": "2",
+              "name": "BTN_Rejoindre",
+              "children": [
+                {
+                  "id": "3",
+                  "name": "texte",
+                  "children": [],
+                  "components": [
+                    {
+                      "type": "TextRenderer",
+                      "config": {
+                        "fontAssetId": "25",
+                        "text": "Rejoindre",
+                        "alignment": "center",
+                        "size": 32,
+                        "color": null,
+                        "verticalAlignment": "center"
+                      },
+                      "id": "0"
+                    }
+                  ],
+                  "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0.1
+                  },
+                  "orientation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "w": 1
+                  },
+                  "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                  },
+                  "visible": true,
+                  "layer": 0,
+                  "prefab": null
+                }
+              ],
+              "components": [
+                {
+                  "type": "SpriteRenderer",
+                  "config": {
+                    "spriteAssetId": "23",
+                    "animationId": null,
+                    "horizontalFlip": false,
+                    "verticalFlip": false,
+                    "castShadow": false,
+                    "receiveShadow": false,
+                    "color": "ffffff",
+                    "overrideOpacity": false,
+                    "opacity": null,
+                    "materialType": "basic",
+                    "shaderAssetId": null
+                  },
+                  "id": "0"
+                },
+                {
+                  "type": "Behavior",
+                  "config": {
+                    "behaviorName": "ButtonBehavior",
+                    "propertyValues": {}
+                  },
+                  "id": "1"
+                }
+              ],
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": -1
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "w": 1
+              },
+              "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "visible": true,
+              "layer": 0,
+              "prefab": null
+            },
+            {
+              "id": "5",
+              "name": "Input_login",
+              "children": [],
+              "components": [
+                {
+                  "type": "Behavior",
+                  "config": {
+                    "behaviorName": "InputBehavior",
+                    "propertyValues": {}
+                  },
+                  "id": "1"
+                },
+                {
+                  "type": "TextRenderer",
+                  "config": {
+                    "fontAssetId": "25",
+                    "text": "",
+                    "alignment": "center",
+                    "size": null,
+                    "color": null,
+                    "verticalAlignment": "center"
+                  },
+                  "id": "2"
+                }
+              ],
+              "position": {
+                "x": 0,
+                "y": 1.1584120988845825,
+                "z": -1
+              },
+              "orientation": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "w": 1
+              },
+              "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "visible": true,
+              "layer": 0,
+              "prefab": null
+            }
+          ],
+          "components": [],
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "visible": true,
+          "layer": 0,
+          "prefab": null
+        }
+      ],
+      "components": [
+        {
+          "type": "Camera",
+          "config": {
+            "mode": "orthographic",
+            "fov": 45,
+            "orthographicScale": 5,
+            "viewport": {
+              "x": 0,
+              "y": 0,
+              "width": 1,
+              "height": 1
+            },
+            "depth": 0,
+            "nearClippingPlane": 0.1,
+            "farClippingPlane": 1000
+          },
+          "id": "0"
+        },
+        {
+          "type": "Behavior",
+          "config": {
+            "behaviorName": "HUDBehavior",
+            "propertyValues": {}
+          },
+          "id": "1"
+        }
+      ],
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "orientation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "layer": 0,
+      "prefab": null
+    }
+  ]
+}

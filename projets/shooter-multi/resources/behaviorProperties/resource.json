@@ -1,0 +1,55 @@
+{
+  "behaviors": {
+    "ButtonBehavior": {
+      "scriptId": "20",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "isHover",
+          "type": "boolean"
+        }
+      ]
+    },
+    "HUDBehavior": {
+      "scriptId": "21",
+      "line": 15,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "InputBehavior": {
+      "scriptId": "26",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ]
+    },
+    "JeuBehavior": {
+      "scriptId": "30",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "PlayerBehavior": {
+      "scriptId": "32",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "CameraBehavior": {
+      "scriptId": "46",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

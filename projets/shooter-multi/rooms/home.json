@@ -1,0 +1,504 @@
+{
+  "history": [
+    {
+      "timestamp": 1452381248431,
+      "author": "ThePikaCube",
+      "text": "C'est bon"
+    },
+    {
+      "timestamp": 1452382712128,
+      "author": "M33kael",
+      "text": "les directions sonnt corrigées"
+    },
+    {
+      "timestamp": 1452382733281,
+      "author": "ThePikaCube",
+      "text": "J'avais lu les corrections sont corrigés"
+    },
+    {
+      "timestamp": 1452382741329,
+      "author": "ThePikaCube",
+      "text": "Mais sinon gg"
+    },
+    {
+      "timestamp": 1452382799661,
+      "author": "M33kael",
+      "text": "Comme ca on peut aisement faire l'orientation du perso aussi"
+    },
+    {
+      "timestamp": 1452382821029,
+      "author": "Mety",
+      "text": "Ouai, mais je vais pas réussir à le faire ^^"
+    },
+    {
+      "timestamp": 1452382839944,
+      "author": "M33kael",
+      "text": "je m'en charge alors"
+    },
+    {
+      "timestamp": 1452382858790,
+      "author": "Mety",
+      "text": "Ah non mais faut pas gérer ça au clavier"
+    },
+    {
+      "timestamp": 1452382868350,
+      "author": "Mety",
+      "text": "Faut que ça suive le curseur de la souris"
+    },
+    {
+      "timestamp": 1452382877550,
+      "author": "ThePikaCube",
+      "text": "Bon sinon moi j'ai fait de l'herbe et des chemin de terre"
+    },
+    {
+      "timestamp": 1452382903961,
+      "author": "Mety",
+      "text": "Tu mets à jour le tileset ?"
+    },
+    {
+      "timestamp": 1452382938184,
+      "author": "ThePikaCube",
+      "text": "Ouaip attend"
+    },
+    {
+      "timestamp": 1452383052889,
+      "author": "ThePikaCube",
+      "text": "Vouala"
+    },
+    {
+      "timestamp": 1452383060107,
+      "author": "ThePikaCube",
+      "text": "Alors ? :)"
+    },
+    {
+      "timestamp": 1452383088355,
+      "author": "ThePikaCube",
+      "text": "Euh o.o la map"
+    },
+    {
+      "timestamp": 1452383169715,
+      "author": "Mety",
+      "text": "Ah mince faut pas modifier le dernier emplacement"
+    },
+    {
+      "timestamp": 1452383181837,
+      "author": "ThePikaCube",
+      "text": "Voilà corriger"
+    },
+    {
+      "timestamp": 1452383195457,
+      "author": "ThePikaCube",
+      "text": "Bon du coup ?"
+    },
+    {
+      "timestamp": 1452383214349,
+      "author": "ThePikaCube",
+      "text": "Je fais pas de graphisme d'habitude moi"
+    },
+    {
+      "timestamp": 1452383521359,
+      "author": "M33kael",
+      "text": "Bon, y a quoi a faire ?"
+    },
+    {
+      "timestamp": 1452383533073,
+      "author": "fraxie",
+      "text": "les tirs"
+    },
+    {
+      "timestamp": 1452383562963,
+      "author": "fraxie",
+      "text": "genre on clique ça crée un shoot dans la direct de la visée"
+    },
+    {
+      "timestamp": 1452383620990,
+      "author": "M33kael",
+      "text": "ou la je suis pas assez bon, pour ca j'ai adapté un truc que j'avais depuis longtemps"
+    },
+    {
+      "timestamp": 1452383994216,
+      "author": "ThePikaCube",
+      "text": "Euh le décor c'est collisions aussi ou pas ?"
+    },
+    {
+      "timestamp": 1452384033669,
+      "author": "M33kael",
+      "text": "a toi de voir comme tu le sens"
+    },
+    {
+      "timestamp": 1452384055077,
+      "author": "ThePikaCube",
+      "text": "Bah moi sa m'arrange pour les fleurs"
+    },
+    {
+      "timestamp": 1452384084463,
+      "author": "M33kael",
+      "text": "alors replique les dans collision"
+    },
+    {
+      "timestamp": 1452384129921,
+      "author": "M33kael",
+      "text": "par defaut tu peux les traverser"
+    },
+    {
+      "timestamp": 1452384139496,
+      "author": "ThePikaCube",
+      "text": "Ouais c'est bon"
+    },
+    {
+      "timestamp": 1452384160441,
+      "author": "ThePikaCube",
+      "text": "Justement je voulais qu'on puisse les traverser les fleurs"
+    },
+    {
+      "timestamp": 1452384194842,
+      "author": "M33kael",
+      "text": "Ok"
+    },
+    {
+      "timestamp": 1452384397396,
+      "author": "ThePikaCube",
+      "text": "Vous en pensez quoi de mes textures ?"
+    },
+    {
+      "timestamp": 1452384803035,
+      "author": "Mety",
+      "text": "Sont sympa"
+    },
+    {
+      "timestamp": 1452384819257,
+      "author": "Mety",
+      "text": "ça change du style de pixel, c'est normal, mais ça tranche pas"
+    },
+    {
+      "timestamp": 1452384838092,
+      "author": "Mety",
+      "text": "et j'ai placé les fleurs sur un autre layer"
+    },
+    {
+      "timestamp": 1452384844512,
+      "author": "ThePikaCube",
+      "text": "J'ai vu"
+    },
+    {
+      "timestamp": 1452384901344,
+      "author": "ThePikaCube",
+      "text": "Euh"
+    },
+    {
+      "timestamp": 1452384903931,
+      "author": "ThePikaCube",
+      "text": "Mec"
+    },
+    {
+      "timestamp": 1452384905740,
+      "author": "ThePikaCube",
+      "text": "Viens"
+    },
+    {
+      "timestamp": 1452384920684,
+      "author": "Mety",
+      "text": "."
+    },
+    {
+      "timestamp": 1452384922874,
+      "author": "Mety",
+      "text": "?"
+    },
+    {
+      "timestamp": 1452384926069,
+      "author": "ThePikaCube",
+      "text": "Les fleurs font des collisions et pas les murs x)"
+    },
+    {
+      "timestamp": 1452384952929,
+      "author": "Mety",
+      "text": "Ah ba oui, il a du utiliser le niveau du layer, pas son nom"
+    },
+    {
+      "timestamp": 1452398638656,
+      "author": "Mety",
+      "text": "Anata qui est toujours là ^^"
+    },
+    {
+      "timestamp": 1452398953553,
+      "author": "Mety",
+      "text": "Bon le lookAt du player fonctionne presque mais il y a un décalage que je ne comprend pas... ça fait comme si le player était un peu plus en haut à droite"
+    },
+    {
+      "timestamp": 1452398990458,
+      "author": "Anata",
+      "text": "j'avais pas fait gaffe que j'etais toujours la au fait :D"
+    },
+    {
+      "timestamp": 1452399004914,
+      "author": "Anata",
+      "text": "viens de m'en rendre compte avec la notification ^^"
+    },
+    {
+      "timestamp": 1452399018748,
+      "author": "Mety",
+      "text": "(Là je parlais plus pour servir de log ^^)"
+    },
+    {
+      "timestamp": 1452399175981,
+      "author": "Anata",
+      "text": "obligé d'utiliser les Quaternion pour de la rotation ?"
+    },
+    {
+      "timestamp": 1452399201061,
+      "author": "Mety",
+      "text": "Ba.... Sinon c'est trop simple"
+    },
+    {
+      "timestamp": 1452399231110,
+      "author": "Mety",
+      "text": "Nan mais il y a une fonction this.actor.lookAt qui doit être super à utiliser"
+    },
+    {
+      "timestamp": 1452399249480,
+      "author": "Mety",
+      "text": "Mais il se tourne en 3d"
+    },
+    {
+      "timestamp": 1452399454394,
+      "author": "Anata",
+      "text": "tu peux sans doute utiliser getZ() au lieu de localposition().z"
+    },
+    {
+      "timestamp": 1452399583868,
+      "author": "Anata",
+      "text": "c'est space en tout cas :D"
+    },
+    {
+      "timestamp": 1452399693637,
+      "author": "Mety",
+      "text": "ça a son effet"
+    },
+    {
+      "timestamp": 1452400032317,
+      "author": "Mety",
+      "text": "Ah ! on se rapproche d'un truc"
+    },
+    {
+      "timestamp": 1452400678847,
+      "author": "Anata",
+      "text": "en fait, tu veux juste tourner le sprite en direction de la souris, c'est ca ?"
+    },
+    {
+      "timestamp": 1452400697270,
+      "author": "Mety",
+      "text": "Oui"
+    },
+    {
+      "timestamp": 1452400704883,
+      "author": "Mety",
+      "text": "Enfin tout l'acteur"
+    },
+    {
+      "timestamp": 1452400768460,
+      "author": "Anata",
+      "text": "je peux faire une modif ? ^^"
+    },
+    {
+      "timestamp": 1452400776134,
+      "author": "Mety",
+      "text": "Ouai"
+    },
+    {
+      "timestamp": 1452400781586,
+      "author": "Anata",
+      "text": "oki, je teste ^^"
+    },
+    {
+      "timestamp": 1452401063465,
+      "author": "Anata",
+      "text": "viens de tester chez moi et ca fonctionne nickel ^^"
+    },
+    {
+      "timestamp": 1452401073456,
+      "author": "Anata",
+      "text": "et la, je fais pas un 360°"
+    },
+    {
+      "timestamp": 1452401104912,
+      "author": "Anata",
+      "text": "trompé dans la valeur de Y ^^"
+    },
+    {
+      "timestamp": 1452401256235,
+      "author": "Anata",
+      "text": "c'est bon"
+    },
+    {
+      "timestamp": 1452401265957,
+      "author": "Anata",
+      "text": "decidement, m'etais bien trompé dans les valeurs ^^"
+    },
+    {
+      "timestamp": 1452401313899,
+      "author": "Mety",
+      "text": "Bon c'est ce que je disais, c'est trop simple"
+    },
+    {
+      "timestamp": 1452401322832,
+      "author": "Anata",
+      "text": "lol ^^"
+    },
+    {
+      "timestamp": 1452401323473,
+      "author": "Mety",
+      "text": ":D"
+    },
+    {
+      "timestamp": 1452401337333,
+      "author": "Anata",
+      "text": "ca a le merite de fonctionner sans beaucoup de ligne :D"
+    },
+    {
+      "timestamp": 1452401368496,
+      "author": "Anata",
+      "text": "par contre, faudra qu'il enregistre l'angle au niveau server pour la restituer aux autre joueurs ^^"
+    },
+    {
+      "timestamp": 1452401412247,
+      "author": "Mety",
+      "text": "Ouai c'est dans la Roadmap"
+    },
+    {
+      "timestamp": 1452401455138,
+      "author": "Anata",
+      "text": "je me sert de ce calcul d'angle pour mon Soukoban, alors me suis dit,  pourquoi ca fonctionnerait il pas pour la rotation du sprite ^^"
+    },
+    {
+      "timestamp": 1452401518701,
+      "author": "Mety",
+      "text": "D'ailleurs si tu veux des idées pour ton sokoban : http://www.puzzlescript.net/"
+    },
+    {
+      "timestamp": 1452401535817,
+      "author": "Anata",
+      "text": "mon Soukoban est terminé :D"
+    },
+    {
+      "timestamp": 1452401546589,
+      "author": "Mety",
+      "text": "Ah je savais pas ^^"
+    },
+    {
+      "timestamp": 1452401553847,
+      "author": "Mety",
+      "text": "Jouable quelque part?"
+    },
+    {
+      "timestamp": 1452401562106,
+      "author": "Anata",
+      "text": "http://game.anatagawa.fr/superpowers/soukoban/"
+    },
+    {
+      "timestamp": 1452401569821,
+      "author": "Anata",
+      "text": "enfin, quasi terminé ^^"
+    },
+    {
+      "timestamp": 1452401602724,
+      "author": "Anata",
+      "text": "les fleches, touche espace et enter"
+    },
+    {
+      "timestamp": 1452401804711,
+      "author": "Anata",
+      "text": "encore certain chose a finir, et rajouter des level, 20 c'est pas assez ^^"
+    },
+    {
+      "timestamp": 1452432373950,
+      "author": "ThePikaCube",
+      "text": "Hello les gens"
+    },
+    {
+      "timestamp": 1452432381472,
+      "author": "ThePikaCube",
+      "text": "Qui sont là"
+    },
+    {
+      "timestamp": 1452432689532,
+      "author": "Mety",
+      "text": "Salut. Je m'occupe de faire un vrai Prefab avec les vrais assets"
+    },
+    {
+      "timestamp": 1452432693764,
+      "author": "Mety",
+      "text": "de Player"
+    },
+    {
+      "timestamp": 1452432699034,
+      "author": "ThePikaCube",
+      "text": "Ok"
+    },
+    {
+      "timestamp": 1452436188722,
+      "author": "ThePikaCube",
+      "text": "Heyllo frax"
+    },
+    {
+      "timestamp": 1452436199250,
+      "author": "fraxken",
+      "text": "hi ! "
+    },
+    {
+      "timestamp": 1452436200297,
+      "author": "fraxken",
+      "text": ":D"
+    },
+    {
+      "timestamp": 1452436208704,
+      "author": "ThePikaCube",
+      "text": ":)"
+    },
+    {
+      "timestamp": 1452436329932,
+      "author": "Mety",
+      "text": "Voilà le prefab utilise les sprites en morceaux du pack d'asset"
+    },
+    {
+      "timestamp": 1452436341085,
+      "author": "ThePikaCube",
+      "text": "Nice"
+    },
+    {
+      "timestamp": 1452436472434,
+      "author": "Mety",
+      "text": "Ba... Le jeu est pété"
+    },
+    {
+      "timestamp": 1452436478434,
+      "author": "ThePikaCube",
+      "text": "?"
+    },
+    {
+      "timestamp": 1452436528720,
+      "author": "ThePikaCube",
+      "text": "Ouais le jeu marche pas"
+    },
+    {
+      "timestamp": 1452436540333,
+      "author": "ThePikaCube",
+      "text": "Mais c'est parce que le serveur il tourne pas non ?"
+    },
+    {
+      "timestamp": 1452436561847,
+      "author": "Mety",
+      "text": "Heu... J'en sais rien"
+    },
+    {
+      "timestamp": 1452436564536,
+      "author": "Mety",
+      "text": "Là j'y go"
+    },
+    {
+      "timestamp": 1452436575782,
+      "author": "ThePikaCube",
+      "text": "Ok"
+    }
+  ]
+}
